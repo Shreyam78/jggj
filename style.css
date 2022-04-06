@@ -1,0 +1,27 @@
+#shadow {
+    text-shadow: 2px 2px 8px aqua;
+}
+body{
+   background-image: url("https://cdnb.artstation.com/p/assets/images/images/006/272/147/large/jack-oldham-mountain-galaxy-background-1.jpg?1497300224");
+   background-position: center;
+   background-size:cover ;
+}
+
+.text {
+    font-size : 40px;
+    color: azure;
+}
+h1 {
+    font-size: 50px;
+}
+
+button {
+    font-size: 40px;
+    color: peru;
+    width: 200px;
+}
+
+h3 {
+    font-size: 30px;
+    color: aqua;
+}
